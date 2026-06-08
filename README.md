@@ -4,7 +4,7 @@ I'm David and I'm a computer science student passionned about software developme
 
 # Languages and tools
 
-**Languages :** <br><br> <img src="https://skillicons.dev/icons?i=c,cs,dotnet,java,python,html,css,javascript,sqlite" />
+**Languages :** <br><br> <img src="https://skillicons.dev/icons?i=c,cs,dotnet,java,python,html,css,javascript" />
 
 **DataBases :**<br><br> <img src="https://skillicons.dev/icons?i=sqlite,mysql" />
 
