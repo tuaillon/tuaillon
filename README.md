@@ -3,7 +3,6 @@
 ## About me
 I'm David and I'm a computer science student passionned about software development.
 
-
 # Languages and tools
 
 **Languages :** <br><br> <img src="https://skillicons.dev/icons?i=c,cs,dotnet,java,python,html,css,javascript" />
