@@ -10,4 +10,4 @@ I'm David and I'm a computer science student passionned about software developme
 
 **Tools :** <br><br><img src="https://skillicons.dev/icons?i=windows,linux,bash,idea,visualstudio,vscode,vim" />
 
-**Technologies that I'm currently learning :** <br><br><img src="https://skillicons.dev/icons?i=cpp,cmake" />
+**Technologies that I'm currently learning on my own :** <br><br><img src="https://skillicons.dev/icons?i=cpp,cmake" />
