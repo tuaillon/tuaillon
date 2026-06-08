@@ -1,7 +1,7 @@
 [🇫🇷 Français](README.fr.md) | [🇬🇧 English](README.md)
 
 ## About me
-I'm David and I'm a computer science student passionned about software development.
+I'm David and I'm a computer science student passionned about software development. Throughout my journey, I have built various projects ranging from terminal games (C++, Java) to a network simulator and a database management application (C#).
 
 # Languages and tools
 
@@ -13,15 +13,11 @@ I'm David and I'm a computer science student passionned about software developme
 
 **Technologies that I'm currently learning on my own :** <br><br><img src="https://skillicons.dev/icons?i=cpp,cmake" />
 
-**Projects :**
+![GitHub Stats](https://readme-stat-black.vercel.app/api?username=Dav-dt&show_icons=true&bg_color=1D3557&title_color=F4F0E6&text_color=F4F0E6&icon_color=F4F0E6&border_color=F4F0E6&hide_border=true&cache=false)
 
-- 👾 [RogueCPP](https://github.com/Dav-dt/RogueCPP) : An attempt of recreating the famous terminal game Rogue in C++
-
-- 🗄️ [GateSys](https://github.com/Dav-dt/GateSys) : A C# Winforms user-friendly application that interacts with a SQLite Database and allows users to manage their Missions.
-
-- 🃏 [Inscryption](https://github.com/Dav-dt/Inscryption) : A Java implementation of the famous card game Inscryption, with a terminal interface.
-
-- 🌐 [NetworkSimulator](https://github.com/Dav-dt/NetworkSimulator) : A C implementation of a simple network simulator, with a terminal interface, that uses loads network config files and uses the STP Protocol
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=Dav-dt&theme=gruvbox&background=1D3557&ring=F4F0E6&fire=F4F0E6&currStreakNum=F4F0E6&sideNums=F4F0E6&currStreakLabel=F4F0E6&sideLabels=F4F0E6&dates=F4F0E6&hide_border=true&v=2" alt="GitHub Streak" />
+</p>
 
 
 

@@ -2,6 +2,7 @@
 
 ## À propos de moi
 Je m'appelle David et je suis étudiant en informatique, passionné par le développement logiciel.
+À travers mon parcours, j'ai réalisé divers projets allant des jeux en terminal (C++, Java) à un simulateur de réseau, en passant par une application de gestion avec base de données (C#).
 
 # Langages et outils
 
@@ -13,12 +14,9 @@ Je m'appelle David et je suis étudiant en informatique, passionné par le déve
 
 **Technologies que j'apprends actuellement par moi-même :** <br><br><img src="https://skillicons.dev/icons?i=cpp,cmake" />
 
-**Projets :**
+![Statistiques GitHub](https://readme-stat-black.vercel.app/api?username=Dav-dt&show_icons=true&bg_color=1D3557&title_color=F4F0E6&text_color=F4F0E6&icon_color=F4F0E6&border_color=F4F0E6&hide_border=true&cache=false)
 
-- 👾 [RogueCPP](https://github.com/Dav-dt/RogueCPP) : Une tentative de recréer le célèbre jeu de terminal Rogue en C++
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=Dav-dt&theme=gruvbox&background=1D3557&ring=F4F0E6&fire=F4F0E6&currStreakNum=F4F0E6&sideNums=F4F0E6&currStreakLabel=F4F0E6&sideLabels=F4F0E6&dates=F4F0E6&hide_border=true&v=2" alt="Série de commits GitHub" />
+</p>
 
-- 🗄️ [GateSys](https://github.com/Dav-dt/GateSys) : Une application C# Winforms conviviale qui interagit avec une base de données SQLite et permet aux utilisateurs de gérer leurs missions.
-
-- 🃏 [Inscryption](https://github.com/Dav-dt/Inscryption) : Une implémentation Java du célèbre jeu de cartes Inscryption, avec une interface textuelle.
-
-- 🌐 [NetworkSimulator](https://github.com/Dav-dt/NetworkSimulator) : Une implémentation en C d'un simulateur de réseau simple, avec interface textuelle, qui charge des fichiers de configuration réseau et utilise le protocole STP
