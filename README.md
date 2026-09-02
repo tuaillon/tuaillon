@@ -1,7 +1,7 @@
 [🇫🇷 Français](README.fr.md) | [🇬🇧 English](README.md)
 
 ## About me
-I'm David and I'm a computer science student passionned about software development. Throughout my journey, I have built various projects ranging from terminal games (C++, Java) to a network simulator and a database management application (C#).
+I'm David and I'm a computer science student passionate about software engineering, with a strong interest in desktop application development. Always eager to learn, build, and explore new fields.
 
 # Languages and tools
 
