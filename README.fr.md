@@ -1,9 +1,7 @@
 [🇫🇷 Français](README.fr.md) | [🇬🇧 English](README.md)
 
 ## À propos de moi
-Je m'appelle David et je suis étudiant en informatique, passionné par le développement logiciel.
-À travers mon parcours, j'ai réalisé divers projets allant des jeux en terminal (C++, Java) à un simulateur de réseau, en passant par une application de gestion avec base de données (C#).
-
+Je m'appelle David, étudiant en informatique passionné par le génie logiciel, avec un fort intérêt pour le développement d'applications desktop. Toujours curieux d'apprendre, de créer et d'explorer de nouveaux domaines de l'informatique.
 # Langages et outils
 
 **Langages :** <br><br> ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
